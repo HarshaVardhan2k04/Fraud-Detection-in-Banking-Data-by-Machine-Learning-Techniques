@@ -1,0 +1,35 @@
+Service Provider
+
+Login,
+Train & Test Bank Datasets, 
+View Trained and Tested Datasets Accuracy in Bar Chart, 
+View Trained and Tested Datasets Accuracy Results, 
+View Prediction Of Bank Fraud Detection, 
+View Prediction Of Bank Fraud Detection Ratio, 
+Download Predicted Data Sets, 
+View Bank Fraud Detection Ratio Results 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT BANK FRAUD DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+customer,	
+age,	
+gender,	
+zipcodeOri,	
+merchant,	
+zipMerchant,	
+category,	
+amount,	
+Type,	
+Date _ Time,
+Prediction.

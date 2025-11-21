@@ -1,0 +1,34 @@
+Fraud Detection in Banking Data by Machine Learning Techniques
+
+Bayesian optimization, data Mining, deep learning, ensemble learning, hyper parameter,
+unbalanced data, machine learning.
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:Jan.2023
+
+Fraud_Detection_in_Banking_Data
+
+
+
+fraud_detection_in_banking_data
+
+
+
+predict_fraud_detection
+
+
+Fid	
+customer	
+age	
+gender	
+zipcodeOri	
+merchant	
+zipMerchant	
+category	
+amount	
+Type	
+Date_Time
+Prediction
+
+
+
